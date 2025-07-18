@@ -19,10 +19,10 @@ This project focuses on detecting, classifying, and identifying Pakistani celebr
 
 ## 📁 Dataset Structure
 
-The dataset consists of:
+The dataset should consists of:
 
-* **15 known Pakistani celebrities** with 180 images each.
-* An additional **"others" class (-1)** with 1809 images for unknown faces.
+* **15 known any Pakistani celebrities** with 180 images each.
+* An additional **"others" class (-1)** with >540 images for unknown faces.
 * Each image is labeled by **gender** and **name ID**.
 
 ```
